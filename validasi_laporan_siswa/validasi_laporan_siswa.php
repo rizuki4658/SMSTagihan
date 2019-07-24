@@ -1,0 +1,37 @@
+  <div class="modal modal-warning fade" id="modalwarning1">
+      <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title"></h4>
+              </div>
+              <div class="modal-body">
+                <center><p><h3>Warning <i class="fa fa-building text-red"></i></h3></p></center>
+                <center><p><h3>Anda Belum Menentukan Kelas&hellip;</h3></p></center>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-outline" data-dismiss="modal">OK</button>
+              </div>
+      </div>
+    <!-- /.modal-content -->
+  </div>
+   <!-- /.modal-dialog -->
+</div>
+
+<div class="modal modal-warning fade" id="modalwarning2">
+      <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title"></h4>
+              </div>
+              <div class="modal-body">
+                <center><p><h3>Warning <i class="fa fa-calendar text-red"></i></h3></p></center>
+                <center><p><h3>Anda Belum Menentukan Angkatan Siswa&hellip;</h3></p></center>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-outline" data-dismiss="modal">OK</button>
+          </div>
+      </div>
+    <!-- /.modal-content -->
+  </div>
+   <!-- /.modal-dialog -->
+</div>
